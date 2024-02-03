@@ -11,7 +11,7 @@ For now, Atmosphere, Fusee, and Hekate can be redirected from the NXBL installer
 Theres no GUI. It will be a *commandline* with simple commands. A GUI isnt planned yet.
 
 ## Secondhand mArch exploits
-*(Not done)* - mArch-nxbl-graphic (2024)
+*(Not done)* - mArch-nxbl-graphic (TBA)
 <br>
 *(Not done)* - mArch-nxbl-utilities (TBA)
 <br>
