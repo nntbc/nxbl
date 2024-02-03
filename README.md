@@ -12,16 +12,27 @@ Theres no GUI. It will be a *commandline* with simple commands. A GUI isnt plann
 
 ## Secondhand mArch exploits
 *(Not done)* - mArch-nxbl-graphic (2024)
+<br>
 *(Not done)* - mArch-nxbl-utilities (TBA)
+<br>
 *(Not done)* - mArch-nxbl-extra (TBA)
+<br>
 *(Not done)* - mArch-nxbl-cfw (TBD)
+<br>
 *(Not done)* - mArch-nxbl-sealake (TBD)
 
 
 # Development & Releases
 **1.0.0 will be released Jan-Feb**
+<br>
 **1.0.1p will be released Feb-Apr**
+<br>
 **1.0.2p will be released Apr-Sep (big update planned)**
+<br>
+<br>
 **1.0.3 will be released Sep-Dec**
+
+<br>
+<br>
 
 *Remember, we're a small team with a big goal. Don't pressure us.*
